@@ -1,6 +1,7 @@
 # test-repo
 
 This is rice0130, learning Git Hub.
+
 Hope you have fun learning!
 
-modified again in remote repo!
+hello,modified again in remote repo!
